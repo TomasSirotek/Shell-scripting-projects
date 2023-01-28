@@ -1,1 +1,3 @@
-# Shell-scripting-projects
+# Shell-scripting
+
+#1 Project starter
