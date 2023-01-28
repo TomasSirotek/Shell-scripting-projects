@@ -19,7 +19,7 @@ validateExistence(){
 }
 
 relocatedToDir(){
-    cd /Users/Tomas/Projects/testingScriptProjects 
+    cd /Users/Tomas/Projects/quick-projects 
 }
 
 createRootFolder(){
